@@ -1,0 +1,47 @@
+Aim:
+ADS Aim
+ADS Smoothness
+Custom ADS Key
+Hip Aim
+Hip Smoothness
+Custom Hip Key
+Silent Aim ( Flick ) ( Buggy + Development )
+Triggerbot ( Shoot once Player is on the Crosshair ) ( Buggy + Development)
+Custom Aim-Part ( Head | Neck | Body | Legs )
+
+Visuals
+FOV Circle
+Box Eclipse
+Filled Boxes ESP
+Snaplines ( From Crosshair )
+Dot
+Watermark ( With Real-Time FPS )
+Toggle for every ESP Type
+^^ 120 FPS Overlay ( Can go up to 240 or even more ) ^^
+
+Targeting Scale
+Default Targeting Scale ( ADS )
+Custom Targeting Scale ( Hip )
+Custom Config ( Your Sensitivity )
+
+Masks
+Circle Mask ( For FOV Circle, so it isn't a FOV Square )
+Anti Self-Detect Mask ( Mask so you dont detect yourself with the AI )
+
+Detection Window:
+Detection Window ( Masks included ) ( Hidden for better Performance )
+Detection Window Visuals
+TopMost Detection Window
+
+Extra's
+Confidence
+Threshold
+NMS IoU
+Automatic Version Detection ( With Github )
+Transparency Console
+Pixel Control
+
+Yolo | TensorRT Inference | Model
+Custom Model support
+TensorRT Inference | 4x FPS Boost ( AI )
+YoloV8, YoloV10, YoloV11 Support
